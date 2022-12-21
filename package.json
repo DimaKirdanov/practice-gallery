@@ -5,7 +5,7 @@
   "homepage": "https://dimakirdanov.github.io/practice-gallery/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /practice-gallery/"
   },
   "repository": {
     "type": "git",
